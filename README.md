@@ -16,21 +16,25 @@ Esta será la lista de los objetivos que tengo pensado alcanzar durante el desar
 
 ## Tecnologías
 
-Algunas de las tecnologías que utilizare para el proyecto:
+Algunas de las tecnologías que utilizaré para el proyecto:
 
 - C# con .NET 10
 - SQL Server
 - ASP.NET Core
 
-Estaré actualizando esta lista a la medida que vaya implementando otras tecnologías
+Estaré actualizando esta lista a medida que vaya implementando otras tecnologías
 
-## Como ejecutarlo
+## Cómo ejecutarlo
 
 1 - Realizar el clonado del repositorio
 ```
 git clone https://github.com/JosesamuelPA/TuNominaDO.git
 ```
-2- Utilizar el comando
+2- Acceder a la carpeta donde se clono el repositorio
+```
+cd TuNominaDO
+```
+3- Utilizar el comando
 ```
 dotnet run
 ```
